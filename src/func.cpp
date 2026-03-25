@@ -2,8 +2,6 @@
 
 #include <cstddef>
 
-using namespace trial;
-
-int func(int x) {
+int trial::func(int x) {
     return x * x;
 }
