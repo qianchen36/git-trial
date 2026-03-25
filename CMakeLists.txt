@@ -5,6 +5,7 @@ project(git-trial)
 add_executable(
     git-trial
     src/main.cpp
+    src/func.cpp
 )
 
 target_include_directories(
