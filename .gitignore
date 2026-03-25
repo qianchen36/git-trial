@@ -1,1 +1,6 @@
-/build
+*
+
+!/include
+!/src
+!/.gitignore
+!/CMakeLists.txt
